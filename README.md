@@ -1,6 +1,6 @@
 # Hello Friends,
 
-<h4>I'm Aung Kaung Myint with 2 years' experience in front end development. I design minimalist and modern web pages,and then I develop clean code.
+<h4>I'm Aung Kaung Myint. I design minimalist and modern web pages,and then I develop clean code.
 </h4>
 
 <h1 align="left">Languages and Tools:</h1>
