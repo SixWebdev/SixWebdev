@@ -4,7 +4,7 @@
 <h4>I’m Aung Kaung Myint with 
 3 years exprience in web development.
 </h4>
-<h4>Based in Thailand</h4>
+<h4>Based in Thailand.</h4>
 <h4>I create unique design and 
 develop with modern function. 
 </h4>
