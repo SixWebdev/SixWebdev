@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aung+Kaung+Myint!;" />
 </h1>
 
-<h3 align="center">Web developer | Based in Thailand</h3>
+<h3 align="center">Front-end developer | Based in Thailand</h3>
 
 <br/>
 
