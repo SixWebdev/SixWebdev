@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on projects for gain my skill.
+ 🔭 I’m currently working on projects to gain my skills.
     <br>
  🌱 I’m currently learning Node.js for back-end development.
     <br>
- ⚡I create unique design and develop with modern function.
+ ⚡I create unique designs and develop them with modern functions.
  </div>
  
 <div align="center"> 
