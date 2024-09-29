@@ -4,7 +4,11 @@ Portfolio:
 <a href="https://aungkaungmyint.com" target="_blank">aungkaungmyint.com<a/>
 <br/>
 Social:
-<a href="https://x.com/q1akmx" target="_blank">X<a/>
+<a href="https://x.com/q1akmx">X<a/>
 <br/>
-<a href="https://instagram.com/q1akm" target="_blank">Instagram<a/>
+<a href="https://instagram.com/q1akm">Instagram<a/>
+<br/>
+<a href="https://www.linkedin.com/in/q1akm">Linkedin<a/>
+
+
 
